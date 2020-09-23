@@ -21,7 +21,11 @@
         <a class="" href="logout">Logout</a>
         <a class="" href="createAccount">Cтворити account</a>
     </nav>
+<<<<<<< HEAD
     <h2 style="margin-top: 60px">+ допис</h2>
+=======
+    <h2 style="margin-top: 60px">Add допис</h2>
+>>>>>>> b2
     <form action="addPost" method="post">
         <div class="form-group">
             <label for="exampleFormControlTextarea1" >Текст допису</label>
